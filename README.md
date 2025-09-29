@@ -7,3 +7,8 @@ Python Tkinter-based app for processing exam papers and generating answer script
 
 <img width="522" height="542" alt="image" src="https://github.com/user-attachments/assets/21336927-65ff-4de7-b525-d2b04b7d41ee" />
 
+
+# Output in Excel 
+<img width="1841" height="552" alt="image" src="https://github.com/user-attachments/assets/fbf116c2-b1a1-46bd-aaa1-3efb3a27dff6" />
+
+
