@@ -1,0 +1,11 @@
+Here are the extracted questions from the provided text:
+
+1. Explain Gaussian distribution with the help of its formula and curve. Also, mention at least 3 characteristics of this distribution.
+2. Distinguish between convex and non-convex functions using their graphical representations. Can convex functions have saddle points?
+3. What is the chance that his study time will be between 1/3 to 1/2 of the day?
+4. For the range R=2X^2+10X-3, find the expected value of X.
+5. If a person tests positive for the disease, what is the probability that they actually have the disease?
+6. Determine the first order derivative for f(x) (i.e., f '(x)). Compute the values for f '(x) and x_next using both above methods for 3 iterations.
+7. Assign the variables and formulate this optimization problem, write the objective function and constraints.
+8. Using the graphical and linear programming methods solve the optimization problem and how many numbers of type A and B orders should be made?
+9. How much maximum profit earned by him?

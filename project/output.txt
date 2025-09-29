@@ -1,0 +1,62 @@
+ 
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI, DUBAI CAMPUS 
+ 
+DUBAI INTERNATIONAL ACADEMIC CITY, DUBAI 
+SECOND SEMESTER 2024 – 2025 
+DEPARTMENT OF COMPUTER SCIENCE 
+ 
+ 
+COURSE : Foundation of Data Science (CS F320)  
+COMPONENT : Midsem exam (Closed Book) 
+WEIGHTAGE : 30% (30 Marks) 
+DATE : 21-10-2024, Monday 
+DURATION : 90 mins (8:30 am – 10:00 am) 
+Note:  
+a. Calculator is allowed to be brought in the exam room. 
+b. Make suitable assumptions wherever required.  
+Q.1: Answer the followings:                                                                                                                   [4+3=7] 
+a) Explain Gaussian distribution with the help of its formula and curve. Also, mention at least 3 
+characteristics of this distribution. 
+b) Distinguish between convex and non-convex functions using their graphical representations. Can 
+convex functions have saddle points? 
+ 
+Q.2: Write the equations for beta distribution and B function. The duration of study time is a random variable 
+X (in hour) of a student follows beta distribution. It has α=3 and β=2.  Perform the followings.        [3+3=6] 
+a) What is the chance that his study time will be between 1/3 to 1/2 of the day.  
+b) For the range R=2X2+10X-3. Find the expected value of X. 
+ 
+Q.3: A new medical test has been developed to detect a certain disease. The test is 95% accurate, meaning that 
+it correctly identifies 95% of people who have the disease and 95% of people who do not have the disease. It 
+is known that 1% of the population has the disease. If a person tests positive for the disease, what is the 
+probability that they actually have the disease?                                                                                                [3] 
+Q. 4: A function f(x)=13xcos(x) - 11sin(x) + 21x to be optimized in the interval between -5 to 5 with α=0.2 
+and β=0.8. There are two methods to update the x values using gradient descent method.                              [6] 
+Method I: x_next = x - α×f '(x)  
+Method II: x_next = β×x - (1-β)×f '(x)  
+ 
+Initial value of x is set as 1.0. Determine the first order derivative for f(x) (i.e., f '(x)). Compute the values for 
+f '(x) and x_next using both above methods for 3 iterations. 
+ 
+[Hint: f ’(sin(x))=cos(x) and f ’(cos(x))=-sin(x)] 
+ 
+Q. 5: A computer vendor, in UAE, prepares quotation for two types of order: type A and type B. The order 
+includes monitors and cabinets (consisting of CPU unit, RAM, etc.). In the order A, customer requires 5 units 
+of monitor and 11 units of cabinet, and in the order B, customer requires 16 units of monitor and 22 units of 
+cabinet.  The profit earned for A is 3300 AED and for B is 4130 AED. The vendor has 81 units of monitor and 
+110 units of cabinets. He wants to maximize the profit. Attempt the followings: (use the roundoff value for the 
+fractional orders)                                                                                                                                                       
+                                                                                                                                                              [2+3+3=8] 
+a) Assign the variables and formulate this optimization problem, write the objective function and 
+constraints.   
+b) Using the graphical and linear programming methods solve the optimization problem and how many 
+numbers of type A and B orders should be made?  
+c) How much maximum profit earned by him? 
+ 
+**********    ALL THE BEST   ******** 
+#Questions: 5 
+#Pages: 1 
+
+
+page_number:-1
+
+

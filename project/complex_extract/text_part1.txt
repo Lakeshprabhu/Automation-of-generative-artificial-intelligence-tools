@@ -1,0 +1,396 @@
+E
+ It was originally constructed in an architectural style that was considered
+outmoded by the thirteenth or fourteenth century.
+24. The author’s argument concerning Notre-Dame’s flying buttresses depends on which
+of the following assumptions about the choir’s lower flyers?
+A
+ They accurately reproduce the decoration on the choir’s original lower flyers.
+B
+ They have a type of decoration used exclusively for exterior surfaces.
+C
+ They were the models for the choir’s original upper flyers.
+D
+ They were the models for the nave’s original lower flyers.
+E
+ They were constructed after the nave’s flyers were constructed.
+Question 25 is based on the following reading passage.
+The average temperature of the lobster-rich waters off the coast of Foerkland has been
+increasing for some years. In warmer water, lobsters grow faster. In particular, lobster
+larvae take less time to reach the size at which they are no longer vulnerable to predation
+by young cod, the chief threat to their survival. Consequently, the survival rate of lobster
+larvae must be going up, and the lobster population in Foerkland’s coastal waters is bound
+to increase.
+25. Which of the following, if true, most seriously weakens the argument?
+A
+ There are indications that in recent years the fishing fleet operating off the coast
+of Foerkland has been taking cod at an unsustainably high rate.
+B
+ The increase in water temperatures off Foerkland has not been as pronounced as
+the increase in average soil temperatures in Foerkland.
+C
+ Because of their speeded-up growth, lobsters now get large enough to be legal
+catch before they reach reproductive maturity.
+D
+ Even though lobsters grow faster in warmer waters, warmer waters have no effect
+on the maximum size to which a lobster can eventually grow.
+E
+ Cod are a cold-water species, and the increasing water temperatures have caused
+a northward shift in Foerkland’s cod population.
+STOP. This is the end of Section 4.
+SECTION 5
+Quantitative Reasoning
+Time—40 minutes
+25 Questions
+For each question, indicate the best answer, using the directions given.
+Notes: All numbers used are real numbers.
+
+
+page_number:-1
+
+All figures are assumed to lie in a plane unless otherwise indicated.
+Geometric figures, such as lines, circles, triangles, and quadrilaterals, are not
+necessarily drawn to scale. That is, you should not assume that quantities such as
+lengths and angle measures are as they appear in a figure. You should assume,
+however, that lines shown as straight are actually straight, points on a line are in
+the order shown, and more generally, all geometric objects are in the relative
+positions shown. For questions with geometric figures, you should base your
+answers on geometric reasoning, not on estimating or comparing quantities by
+sight or by measurement.
+Coordinate systems, such as xy-planes and number lines, are drawn to scale;
+therefore, you can read, estimate, or compare quantities in such figures by sight or
+by measurement.
+Graphical data presentations, such as bar graphs, circle graphs, and line graphs, are
+drawn to scale; therefore, you can read, estimate, or compare data values by sight
+or by measurement.
+For each of Questions 1 to 9, compare Quantity A and Quantity B, using additional information centered above
+the two quantities if such information is given. Select one of the following four answer choices and fi ll in the
+corresponding oval to the right of the question.
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+A symbol that appears more than once in a question has the same meaning throughout the question.
+Example 1:
+Quantity A
+(2)(6)
+Quantity B
+2 + 6
+Correct Answer
+Example 2:
+
+
+page_number:-2
+
+Quantity A
+PS
+Quantity B
+SR
+Correct Answer
+(since equal lengths cannot be assumed, even though PS and SR appear equal)
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+1.
+Quantity A
+Quantity B
+2.
+x < 1 and x ≠0
+Quantity A
+Quantity B
+
+
+page_number:-3
+
+3.
+x > 0
+Quantity A
+0.5% of x
+Quantity B
+4.
+The median income of a group of College C graduates six months after graduation was
+$3,000 higher than the median income of a group of College D graduates six months
+after graduation.
+Quantity A
+The 75th percentile of the incomes of the group of College C graduates six months after
+graduation
+Quantity B
+The 75th percentile of the incomes of the group of College D graduates six months after
+graduation
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+5.
+The graph above shows the frequency distribution of 50 integer values varying from 1
+to 6.
+Quantity A
+
+
+page_number:-4
+
+The average (arithmetic mean) of the 50 values
+Quantity B
+The median of the 50 values
+6.
+Quantity A
+The area of triangle PQR
+Quantity B
+The area of triangle PSR
+7.
+Quantity A
+The sum of the odd integers from 1 to 199
+Quantity B
+The sum of the even integers from 2 to 198
+8.
+s and t are positive integers, and 
+.
+Quantity A
+Quantity B
+
+
+page_number:-5
+
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+9.
+In a quality-control test, 50 boxes—each containing 30 machine parts—were examined
+for defective parts. The number of defective parts was recorded for each box, and the
+average (arithmetic mean) of the 50 recorded numbers of defective parts per box was
+1.12. Only one error was made in recording the 50 numbers: “1” defective part in a
+certain box was incorrectly recorded as “10”.
+Quantity A
+The actual average number of defective parts per box
+Quantity B
+0.94
+Questions 10 to 25 have several different formats. Unless otherwise directed, select a single answer choice. For
+Numeric Entry questions, follow the instructions below.
+Numeric Entry Questions
+Enter your answer in the answer box(es) below the question.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+If a question asks for a fraction, there will be two boxes—one for the numerator and one for the
+denominator.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be
+reduced to lowest terms.
+Enter the exact answer unless the question asks you to round your answer.
+10. In year Y, the population of Colorado was approximately half that of New Jersey, and
+the land area of Colorado was approximately 14 times that of New Jersey. The
+population density (number of persons per unit of land area) of Colorado in year Y was
+approximately how many times the population density of New Jersey?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+
+
+page_number:-6
+
+E
+ 
+For the following question, enter your answer in the box.
+11. In the figure above, line k is parallel to line m. What is the value of y ?
+y = 
+12. The numbers in data set S have a standard deviation of 5. If a new data set is formed
+by adding 3 to each number in S, what is the standard deviation of the numbers in the
+new data set?
+A
+   2
+B
+   3
+C
+   5
+D
+   8
+E
+ 15
+13. If 
+, which of the following could be the value of y ?
+A
+   4
+B
+   1
+C
+ −1
+D
+ −3
+E
+ −5
+For the following question, select all the answer choices that apply.
+14. List K consists of the numbers −10, −5, 0, 5, and 10. Which of the following lists of
+numbers have the same range as the numbers in list K ?
+Indicate all such lists.
+A −15, −1, 0, 1, 15
+B −7, −4, −2, 1, 13
+C 0, 1, 2, 5, 8, 10
+D 2, 3, 5, 15, 19, 22
+
+
+page_number:-7
+
+E 4, 5, 6, 24
+15. Aisha’s income in 2004 was 20 percent greater than her income in 2003. What is the
+ratio of Aisha’s income in 2004 to her income in 2003 ?
+A
+   1 to 5
+B
+   5 to 6
+C
+   6 to 5
+D
+   5 to 1
+E
+ 20 to 1
+16. Jacob’s weekly take-home pay is n dollars. Each week he uses 
+ dollars for
+expenses and saves the rest. At those rates, how many weeks will it take Jacob to save
+$500, in terms of n?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+E
+ 
+Questions 17 to 20 are based on the following data.
+17. In the circle graphs, the degree measure of the central angle of the sector representing
+the number of workers unemployed for 11 to 14 weeks is how much greater in the
+manufacturing industry graph than in the service industry graph?
+
+
+page_number:-8
+
+A
+   5°
+B
+ 10°
+C
+ 15°
+D
+ 18°
+E
+ 20°
+18. Which of the following could be the median length of unemployment, in weeks, for
+manufacturing industry workers who were unemployed for at least 1 week?
+A
+   4
+B
+   8
+C
+ 12
+D
+ 16
+E
+ 20
+19. If one of the workers in the manufacturing and service industries who were
+unemployed for at least 1 week will be randomly selected, what is the probability that
+the person selected will be a service industry worker who was unemployed for 26
+weeks or more?
+A
+ 0.04
+B
+ 0.09
+C
+ 0.21
+D
+ 0.40
+E
+ 0.90
+20. The ratio of the number of manufacturing industry workers who were unemployed for
+5 to 10 weeks to the number of service industry workers who were unemployed for 5
+to 10 weeks is closest to which of the following?
+A
+ 5 to 4
+B
+ 6 to 5
+C
+ 3 to 2
+D
+ 5 to 2
+E
+ 7 to 6
+For the following question, select all the answer choices that apply.
+21. If |t + 3| > 5 , which of the following could be the value of t ?
+Indicate all such values.
+A −9
+B −6
+
+
+page_number:-9
+
+C −2
+D   0
+E   2
+F   3
+22. The operation ⊗ is defined for all integers x and y as x⊗y = xy −y. If x and y are
+positive integers, which of the following CANNOT be zero?
+A
+ x⊗y
+B
+ y⊗x
+C
+ (x −1) ⊗y
+D
+ (x + 1) ⊗y
+E
+ x⊗(y −1)
+23. P, Q, and R are three points in a plane, and R does not lie on line PQ. Which of the
+following is true about the set of all points in the plane that are the same distance from
+all three points?
+A
+ It contains no points.
+B
+ It contains one point.
+C
+ It contains two points.
+D
+ It is a line.
+E
+ It is a circle.
+24. If x < y < 0, which of the following inequalities must be true?
+A
+ y + 1 < x
+B
+ y −1 < x
+C
+ 
+D
+ 
+E
+ 
+For the following question, enter your answer in the box.
+25. What is the length of a diagonal of a rectangle that has width 5 and perimeter 34 ?
+STOP. This is the end of Section 5.
+SECTION 6
+Quantitative Reasoning
+Time—40 minutes
+25 Questions
+
+
+page_number:-10
+
+

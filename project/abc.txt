@@ -1,0 +1,56 @@
+[
+  {
+    "T": "theoretical",
+    "Q": "Explain Gaussian distribution with the help of its formula and curve. Also, mention at least 3 characteristics of this distribution.",
+    "A": "Gaussian distribution, or normal distribution, is defined by the formula f(x) = (1 / (σ√(2π))) * e^(-((x - μ)²) / (2σ²)), where μ is the mean and σ is the standard deviation. Characteristics include: 1. Symmetrical about the mean. 2. Approximately 68% of the data falls within one standard deviation of the mean. 3. The total area under the curve is 1.",
+    "I": "The Gaussian formula is derived from the exponential function and describes the distribution of values in many natural phenomena."
+  },
+  {
+    "T": "theoretical",
+    "Q": "Distinguish between convex and non-convex functions using their graphical representations. Can convex functions have saddle points?",
+    "A": "Convex functions curve upwards, and any line segment connecting two points on the graph lies above the graph. Non-convex functions can curve downwards and may have regions where a line segment lies below the graph. Convex functions cannot have saddle points, which are points that are neither a local minimum nor maximum.",
+    "I": "The definitions and graphical representations differentiate the two types of functions, emphasizing the properties of convexity."
+  },
+  {
+    "T": "theoretical",
+    "Q": "Write the equations for beta distribution and B function. The duration of study time is a random variable X (in hour) of a student follows beta distribution. It has α=3 and β=2. What is the chance that his study time will be between 1/3 to 1/2 of the day?",
+    "A": "The probability density function for the beta distribution is f(x; α, β) = (x^(α-1) * (1-x)^(β-1)) / B(α, β), where B(α, β) = ∫(0 to 1) t^(α-1) * (1-t)^(β-1) dt. The chance that X is between 1/3 and 1/2 can be calculated using integration of the PDF over this interval.",
+    "I": "Integration of the beta distribution's PDF over the specified interval yields the probability."
+  },
+  {
+    "T": "theoretical",
+    "Q": "For the range R=2X²+10X-3. Find the expected value of X.",
+    "A": "The expected value E[X] for a beta-distributed random variable can be calculated as E[X] = α / (α + β). Here, E[X] = 3 / (3 + 2) = 3/5 = 0.6.",
+    "I": "Using the definition of expected value for beta distribution, where α=3 and β=2."
+  },
+  {
+    "T": "quantitative",
+    "Q": "If a person tests positive for the disease, what is the probability that they actually have the disease?",
+    "A": "Using Bayes' theorem, P(Disease | Positive) = (P(Positive | Disease) * P(Disease)) / P(Positive). Given P(Positive | Disease) = 0.95, P(Disease) = 0.01, and P(Positive) = (0.95 * 0.01) + (0.05 * 0.99), the result is approximately 0.1604 or 16.04%.",
+    "I": "Bayes' theorem allows the calculation of conditional probability based on provided accuracies and prevalence."
+  },
+  {
+    "T": "quantitative",
+    "Q": "Determine the first order derivative for f(x) = 13xcos(x) - 11sin(x) + 21x. Compute the values for f '(x) and x_next using both methods for 3 iterations.",
+    "A": "The first derivative f '(x) = 13(cos(x) - xsin(x)) - 11cos(x) + 21. For Method I, x_next = x - α × f '(x) and Method II, x_next = β × x - (1-β) × f '(x). Iteration calculations will yield specific values for each method.",
+    "I": "Differentiation and applying the iterative update rules for gradient descent lead to the calculation of x values."
+  },
+  {
+    "T": "quantitative",
+    "Q": "Assign the variables and formulate this optimization problem, write the objective function and constraints.",
+    "A": "Let A = number of type A orders and B = number of type B orders. Objective function: Maximize Profit = 3300A + 4130B. Constraints: 5A + 16B ≤ 81 (monitors), 11A + 22B ≤ 110 (cabinets), A, B ≥ 0.",
+    "I": "Defining variables and forming the linear programming model based on the problem statement."
+  },
+  {
+    "T": "quantitative",
+    "Q": "Using the graphical and linear programming methods solve the optimization problem and how many numbers of type A and B orders should be made?",
+    "A": "Solving the constraints graphically reveals the feasible region; the optimal solution occurs at the vertices. The solution yields A = 3 and B = 4.",
+    "I": "Graphical method involves plotting constraints and identifying the optimal point within the feasible region."
+  },
+  {
+    "T": "quantitative",
+    "Q": "How much maximum profit earned by him?",
+    "A": "The maximum profit with A = 3 and B = 4 is Profit = 3300(3) + 4130(4) = 9900 + 16520 = 26420 AED.",
+    "I": "Substituting the optimal order quantities back into the profit equation gives the total profit."
+  }
+]

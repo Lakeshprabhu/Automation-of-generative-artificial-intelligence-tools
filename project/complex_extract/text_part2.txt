@@ -1,0 +1,389 @@
+For each question, indicate the best answer, using the directions given.
+Notes: All numbers used are real numbers.
+All figures are assumed to lie in a plane unless otherwise indicated. Geometric
+figures, such as lines, circles, triangles, and quadrilaterals, are not necessarily
+drawn to scale. That is, you should not assume that quantities such as lengths and
+angle measures are as they appear in a figure. You should assume, however, that
+lines shown as straight are actually straight, points on a line are in the order shown,
+and more generally, all geometric objects are in the relative positions shown. For
+questions with geometric figures, you should base your answers on geometric
+reasoning, not on estimating or comparing quantities by sight or by measurement.
+Coordinate systems, such as xy-planes and number lines, are drawn to scale;
+therefore, you can read, estimate, or compare quantities in such figures by sight or
+by measurement.
+Graphical data presentations, such as bar graphs, circle graphs, and line graphs, are
+drawn to scale; therefore, you can read, estimate, or compare data values by sight
+or by measurement.
+For each of Questions 1 to 9, compare Quantity A and Quantity B, using
+additional information centered above the two quantities if such information is
+given. Select one of the following four answer choices and fi ll in the corresponding
+oval to the right of the question.
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+A symbol that appears more than once in a question has the same meaning
+throughout the question.
+Example 1:
+Quantity A
+(2)(6)
+Quantity B
+2 + 6
+Correct Answer
+Example 2:
+
+
+page_number:-11
+
+Quantity A
+PS
+Quantity B
+SR
+Correct Answer
+(since equal lengths cannot be assumed, even though PS and SR appear equal)
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+1.
+A circle is inscribed in a square with sides of length 5.
+Quantity A
+The circumference of the circle
+Quantity B
+15
+2.
+2u + v = 14
+uv = 0
+Quantity A
+u
+Quantity B
+v
+
+
+page_number:-12
+
+3.
+Quantity A
+9502,000
+Quantity B
+106,000
+4.
+Set A consists of 40 integers, and set B consists of 150 integers. The number of integers
+that are in both set A and set B is 20.
+Quantity A
+The total number of integers that are in set A or set B, or both
+Quantity B
+170
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+5.
+x is a negative integer.
+Quantity A
+Quantity B
+6.
+(x + 3)(y − 4) = 0
+Quantity A
+xy
+Quantity B
+−12
+
+
+page_number:-13
+
+7.
+Geoff used $630 to buy a new guitar. This amount was 15 percent of his earnings last
+summer.
+Quantity A
+The amount of Geoff’s earnings last summer not used to buy the new guitar
+Quantity B
+$3,570
+8.
+Set S consists of 5 objects.
+Quantity A
+The number of subsets of set S that consist of 1 object
+Quantity B
+The number of subsets of set S that consist of 4 objects
+A
+ Quantity A is greater.
+B
+ Quantity B is greater.
+C
+ The two quantities are equal.
+D
+ The relationship cannot be determined from the information given.
+9.
+Quantity A
+The length of line segment AC
+Quantity B
+3
+Questions 10 to 25 have several different formats. Unless otherwise directed, select
+
+
+page_number:-14
+
+a single answer choice. For Numeric Entry questions, follow the instructions
+below.
+Numeric Entry Questions
+Enter your answer in the answer box(es) below the question.
+Your answer may be an integer, a decimal, or a fraction, and it may be
+negative.
+If a question asks for a fraction, there will be two boxes—one for the
+numerator and one for the denominator.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct.
+Fractions do not need to be reduced to lowest terms.
+Enter the exact answer unless the question asks you to round your answer.
+10. What is the slope of line k in the xy-plane above?
+A
+ −5
+B
+ −1
+C
+   0
+D
+   1
+E
+   5
+b − 3, b − 1, b + 2, b + 3, b + 4
+11. The median of the five terms listed above is 5, where b is a constant. What is the
+average (arithmetic mean) of the five terms?
+A
+ 3
+B
+ 4
+C
+ 5
+D
+ 6
+E
+ 7
+
+
+page_number:-15
+
+For the following question, enter your answer in the box.
+12. What is the area of the region shown above?
+13. During a one-year study, biologists observed the number of fish in a certain pond as
+well as the percent of the fish that were catfish. At the beginning of the year, there
+were 300 fish in the pond, of which 15 percent were catfish; and at the end of the year,
+there were 400 fish in the pond, of which 10 percent were catfish. From the beginning
+of the year to the end of the year, the number of catfish in the pond
+A
+ decreased by more than 5%
+B
+ decreased by 5%
+C
+ did not change
+D
+ increased by 5%
+E
+ increased by more than 5%
+For the following question, enter your answer in the box.
+14. On a radio tower, a red light flashes every 6 seconds and a blue light flashes every 10
+seconds. If both lights flash together at a certain time, how many seconds later will
+both lights flash together the next time?
+For the following question, select all the answer choices that apply.
+15. If a < b < 0 , which of the following numbers must be positive?
+Indicate all such numbers.
+A a − b
+B 
+C ab
+D 
+E 
+
+
+page_number:-16
+
+16. A flat rectangular picture, represented by the unshaded region in the figure above, is
+mounted in a flat rectangular frame, represented by the shaded region. The frame is 1
+inch wide on all sides. For what value of x, in inches, is the area of the frame equal to
+the area of the picture?
+A
+ 4
+B
+ 5
+C
+ 6
+D
+ 7
+E
+ 8
+Questions 17 to 20 are based on the following data.
+PERCENT OF THE 300 PEOPLE IN GROUP 1 AND THE 400
+PEOPLE IN GROUP 2 WHO HAVE SELECTED AILMENTS
+Respiratory Ailment
+Percent of People in
+Group 1 Who Have
+Ailment
+Percent of People in
+Group 2 Who Have
+Ailment
+Allergic sensitivity to
+endotoxins
+14%
+21%
+Asthma (allergic)
+3%
+4%
+Asthma (nonallergic)
+2%
+3%
+Hay fever
+4%
+10%
+Sneezing and itchy eyes
+8%
+11%
+Wheezing (allergic)
+5%
+6%
+
+
+page_number:-17
+
+Wheezing (nonallergic)
+2%
+5%
+17. The number of people in group 2 who have hay fever is how much greater than the
+number of people in group 1 who have hay fever?
+A
+ 37
+B
+ 35
+C
+ 32
+D
+ 28
+E
+ 24
+18. For the seven ailments, what is the median of the numbers of people in group 2 who
+have the ailments?
+A
+ 20
+B
+ 22
+C
+ 24
+D
+ 26
+E
+ 28
+19. The number of people in group 1 who have the ailment wheezing (allergic) is what
+percent greater than the number of people in group 1 who have the ailment wheezing
+(nonallergic)?
+A
+   50%
+B
+   75%
+C
+ 150%
+D
+ 200%
+E
+ 300%
+For the following question, enter your answer in the boxes.
+20. What is the ratio of the number of people in group 2 with the ailment sneezing and
+itchy eyes to the total number of people in both groups with the ailment sneezing and
+itchy eyes?
+Give your answer as a fraction.
+
+
+page_number:-18
+
+21. Of the people in a certain survey, 58 percent were at most 40 years old and 70 percent
+were at most 60 years old. If 252 of the people in the survey were more than 40 years
+old and at most 60 years old, what was the total number of people in the survey?
+A
+ 1,900
+B
+ 2,100
+C
+ 2,400
+D
+ 2,700
+E
+ 3,000
+22. If x > 0, which of the following is equal to 1.25 percent of x ?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+E
+ 
+23. Alice earns d dollars and has t percent of what she earns deducted for taxes. How
+much of what she earns does Alice have left after taxes?
+A
+ d(1 − 100t) dollars
+B
+ d(1 − 10t) dollars
+C
+ d(1 − t) dollars
+D
+ d(1 − 0.1t) dollars
+E
+ d(1 − 0.01t) dollars
+For the following question, select all the answer choices that apply.
+24. A student made a conjecture that for any integer n, the integer 4n + 3 is a prime
+number. Which of the following values of n could be used to disprove the student’s
+conjecture?
+Indicate all such values.
+
+
+page_number:-19
+
+A 1
+B 3
+C 4
+D 6
+E 7
+25. Eight points are equally spaced on a circle. If 4 of the 8 points are to be chosen at
+random, what is the probability that a quadrilateral having the 4 points chosen as
+vertices will be a square?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+E
+ 
+STOP. This is the end of Section 6.
+Evaluating Your Performance
+Now that you have completed Practice Test 2, it is time to evaluate your performance.
+Analytical Writing Measure
+One way to evaluate your performance on the Issue and Argument topics you answered on
+this practice test is to compare your essay responses with the scored sample essay
+responses for these topics and review the rater commentary. Scored sample essay
+responses and rater commentary are presented starting on page 481 for the one Issue topic
+and one Argument topic presented in the Analytical Writing sections of Practice Test 2.
+The Issue and Argument scoring guides start on page 37.
+To better understand the analytical writing abilities characteristic of particular score
+levels, you should review the score level descriptions on page 41.
+Verbal Reasoning and Quantitative Reasoning Measures
+The tables that follow contain information to help you evaluate your performance on the
+Verbal Reasoning and Quantitative Reasoning measures of Practice Test 2. An answer key
+with the correct answers to the questions in the Verbal Reasoning and Quantitative
+
+
+page_number:-20
+
+

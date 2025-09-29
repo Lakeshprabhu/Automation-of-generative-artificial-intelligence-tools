@@ -1,0 +1,84 @@
+21. Of the people in a certain survey, 58 percent were at most 40 years old and 70 percent
+were at most 60 years old. If 252 of the people in the survey were more than 40 years
+old and at most 60 years old, what was the total number of people in the survey?
+A
+ 1,900
+B
+ 2,100
+C
+ 2,400
+D
+ 2,700
+E
+ 3,000
+22. If x > 0, which of the following is equal to 1.25 percent of x ?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+E
+ 
+23. Alice earns d dollars and has t percent of what she earns deducted for taxes. How
+much of what she earns does Alice have left after taxes?
+A
+ d(1 − 100t) dollars
+B
+ d(1 − 10t) dollars
+C
+ d(1 − t) dollars
+D
+ d(1 − 0.1t) dollars
+E
+ d(1 − 0.01t) dollars
+For the following question, select all the answer choices that apply.
+24. A student made a conjecture that for any integer n, the integer 4n + 3 is a prime
+number. Which of the following values of n could be used to disprove the student’s
+conjecture?
+Indicate all such values.
+
+
+page_number:-41
+
+A 1
+B 3
+C 4
+D 6
+E 7
+25. Eight points are equally spaced on a circle. If 4 of the 8 points are to be chosen at
+random, what is the probability that a quadrilateral having the 4 points chosen as
+vertices will be a square?
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+E
+ 
+STOP. This is the end of Section 6.
+Evaluating Your Performance
+Now that you have completed Practice Test 2, it is time to evaluate your performance.
+Analytical Writing Measure
+One way to evaluate your performance on the Issue and Argument topics you answered on
+this practice test is to compare your essay responses with the scored sample essay
+responses for these topics and review the rater commentary. Scored sample essay
+responses and rater commentary are presented starting on page 481 for the one Issue topic
+and one Argument topic presented in the Analytical Writing sections of Practice Test 2.
+The Issue and Argument scoring guides start on page 37.
+To better understand the analytical writing abilities characteristic of particular score
+levels, you should review the score level descriptions on page 41.
+Verbal Reasoning and Quantitative Reasoning Measures
+The tables that follow contain information to help you evaluate your performance on the
+Verbal Reasoning and Quantitative Reasoning measures of Practice Test 2. An answer key
+with the correct answers to the questions in the Verbal Reasoning and Quantitative
+
+
+page_number:-42
+
+

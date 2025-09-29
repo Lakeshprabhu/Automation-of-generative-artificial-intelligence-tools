@@ -1,0 +1,113 @@
+You are given a table with the following columns:
+index, category, question, question_type, answer (chatgpt), trial1, trial2, and insight.
+
+Generate values for the trial2 and insight columns using the following logic:
+
+Rules for trial2:
+
+If trial1 == 1:
+→ Copy the value from answer (chatgpt) into trial2.
+
+If trial1 == 3:
+→ Set both trial2 and insight to "N/A".
+
+For all other trial1 values:
+→ Generate a new answer:
+
+If question_type == "mcq": Extract answer from options in question.
+
+If question_type == "text": Generate a short relevant answer.
+
+If question_type == "reference": Provide context used by following rows.
+
+If question_type == "image": Assume nearby textual description and infer.
+
+Rules for insight:
+
+Always provide an explanation for the answer in trial2, even when trial1 == 1.
+
+📄 Example Output (JSON)
+json
+Copy
+Edit
+[
+  {
+
+    "trial2": "100°C",
+    "insight": "The answer is reused because trial1 is 1. 100°C is correct as it is the standard boiling point of water at sea level."
+  },
+  {
+
+    "trial2": "N/A",
+    "insight": "N/A"
+  },
+  {
+
+    "trial2": "William Shakespeare",
+    "insight": "Macbeth is a well-known tragedy written by William Shakespeare, so he is the correct answer."
+  },
+  {
+
+    "trial2": "Paris",
+    "insight": "Among the options given, Paris is the correct capital city of France."
+  }
+]
+
+
+
+
+
+
+
+
+
+You are an AI designed to answer questions from a question paper. The question paper is processed in batches of 10 pages per API call.
+
+Instructions:
+
+Answer all questions in the exact chronological order in which they appear.
+
+If a page contains questions, extract every unique question and generate an accurate answer.
+
+If a page contains no questions, do not generate any output. Internally retain context and continue processing future batches.
+
+Maintain context across API calls to ensure consistency in multi-part questions or topics.
+
+Do not include duplicate questions — if the same question appears more than once, answer it only once.
+
+For each question, include a "T" field to indicate the category (e.g., "quantitative", "verbal", "logical reasoning", "technical", "theoretical").
+
+Include an "I" (insight) field to explain the logic, steps, or reference used to arrive at the answer. Keep it brief, clear, and relevant.
+
+The output must be strictly valid JSON that can be parsed using Python’s json library.
+
+Output Format:
+Return a single JSON array containing individual dictionaries in this format:
+[
+  {"T": "question type", "Q": "Question text", "A": "Answer text", "I": "Brief reasoning or method used"},
+  {"T": "question type", "Q": "Question text", "A": "Answer text", "I": "Brief reasoning or method used"}
+]
+
+Each dictionary must contain:
+"T" — the question category
+"Q" — the question text
+"A" — the answer text
+"I" — a short explanation of how the answer was derived (logic, rule, reference, etc.)
+
+If a question has multiple answers, repeat the question for each answer. Do not use lists.
+
+Do NOT:
+
+- Do not group answers like "A": ["answer1", "answer2"]
+- Do not reorder questions — maintain their original order
+- Do not include duplicate questions
+- Do not wrap the array in an outer dictionary
+- Do not include any explanations, labels, or code blocks outside the JSON
+
+Example of Correct Output:
+[
+  {"T": "quantitative", "Q": "What is 2 + 2?", "A": "4", "I": "Basic arithmetic addition"},
+  {"T": "theoretical", "Q": "Define gravity.", "A": "Gravity is the force by which a planet or other body draws objects toward its center.", "I": "Definition based on Newtonian physics"}
+]
+
+Process the given pages and return only the JSON array of question-answer-type-insight dictionaries, strictly following these rules.
